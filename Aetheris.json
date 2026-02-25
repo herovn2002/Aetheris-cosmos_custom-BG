@@ -1,7 +1,7 @@
 {
   "name": "Aetheris",
   "description": "A Comfy Dark Purple Theme",
-  "version": "3",
+  "version": "3.01",
   "authors": [
     {
       "name": "AsterionVT",
@@ -16,7 +16,7 @@
       "#080228"
     ],
     "BACKGROUND_ACCENT": [
-      "#5a00c7"
+      "#360099"
     ],
     "BACKGROUND_FLOATING": [
       "#080228"
@@ -112,7 +112,7 @@
       "#8957ff"
     ],
     "INTERACTIVE_ACTIVE": [
-      "#5a00c7"
+      "#360099"
     ],
     "INTERACTIVE_HOVER": [
       "#3d007a"
@@ -127,7 +127,7 @@
       "rgba(114,0,0,0.1)"
     ],
     "MENTION_FOREGROUND": [
-      "#5a00c7"
+      "#360099"
     ],
     "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
       "#080228"
@@ -145,7 +145,7 @@
       "#FFFFFF1A"
     ],
     "REDESIGN_BUTTON_DANGER_BACKGROUND": [
-      "#7f007b"
+      "#2409aa"
     ],
     "REDESIGN_CHANNEL_CATEGORY_NAME_TEXT": [
       "#8957ff"
@@ -160,10 +160,10 @@
       "#000000"
     ],
     "STATUS_DANGER": [
-      "#7f007b"
+      "#2409aa"
     ],
     "STATUS_DANGER_BACKGROUND": [
-      "#7f007b"
+      "#2409aa"
     ],
     "STATUS_DANGER_TEXT": [
       "#080228"
@@ -178,7 +178,7 @@
       "#43b58180"
     ],
     "TEXT_LINK": [
-      "#8200c8"
+      "#9360f0"
     ],
     "TEXT_MUTED": [
       "#8957ff"
@@ -190,7 +190,7 @@
       "#e9d9ff"
     ],
     "TEXT_SECONDARY": [
-      "#d79dff"
+      "#eae1ef"
     ],
     "BG_MOD_FAINT": [
       "#FFFFFF12"
@@ -240,32 +240,32 @@
     "BLUE_660": "#5a76a8",
     "BLUE_700": "#5a76a8",
     "BLACK_500": "#000000b2",
-    "BRAND_200": "#5a00c7",
-    "BRAND_260": "#5a00c7",
-    "BRAND_300": "#5a00c7",
-    "BRAND_330": "#5a00c7",
-    "BRAND_345": "#5a00c7",
-    "BRAND_360": "#5a00c7",
-    "BRAND_400": "#5a00c7",
-    "BRAND_430": "#5a00c7",
-    "BRAND_460": "#5a00c7",
-    "BRAND_500": "#5a00c7",
-    "BRAND_530": "#5a00c7",
+    "BRAND_200": "#360099",
+    "BRAND_260": "#360099",
+    "BRAND_300": "#360099",
+    "BRAND_330": "#360099",
+    "BRAND_345": "#360099",
+    "BRAND_360": "#360099",
+    "BRAND_400": "#360099",
+    "BRAND_430": "#360099",
+    "BRAND_460": "#360099",
+    "BRAND_500": "#360099",
+    "BRAND_530": "#360099",
     "BRAND_560": "#3d007a",
-    "BRAND_600": "#5a00c7",
-    "BRAND_630": "#5a00c7",
-    "BRAND_660": "#5a00c7",
-    "BRAND_700": "#5a00c7",
+    "BRAND_600": "#360099",
+    "BRAND_630": "#360099",
+    "BRAND_660": "#360099",
+    "BRAND_700": "#360099",
     "BRAND_730": "#cbadff",
     "PLUM_1": "#cbadff",
-    "PLUM_3": "#5a00c7",
+    "PLUM_3": "#360099",
     "PLUM_4": "#cbadff",
     "PLUM_6": "#cbadff",
     "PLUM_9": "#8957ff",
     "PLUM_10": "#8957ff",
     "PLUM_11": "#8957ff",
     "PLUM_13": "#8957ff",
-    "PLUM_15": "#5a00c7",
+    "PLUM_15": "#360099",
     "PLUM_16": "#080228",
     "PLUM_17": "#080228",
     "PLUM_18": "#080228",
@@ -277,13 +277,13 @@
     "PLUM_25": "#080228",
     "PRIMARY_100": "#8957ff",
     "PRIMARY_200": "#cbadff",
-    "PRIMARY_300": "#5a00c7",
+    "PRIMARY_300": "#360099",
     "PRIMARY_330": "#cbadff",
-    "PRIMARY_360": "#5a00c7",
+    "PRIMARY_360": "#360099",
     "PRIMARY_400": "#3d007a",
     "PRIMARY_460": "#080228",
-    "PRIMARY_500": "#5a00c7",
-    "PRIMARY_530": "#5a00c7",
+    "PRIMARY_500": "#360099",
+    "PRIMARY_530": "#360099",
     "PRIMARY_600": "#080228",
     "PRIMARY_630": "#080228",
     "PRIMARY_645": "#080228",
@@ -306,24 +306,24 @@
     "GREEN_630": "#43b581",
     "GREEN_660": "#43b581",
     "GREEN_700": "#43b581",
-    "GUILD_BOOSTING_PINK": "#5a00c7",
-    "GUILD_BOOSTING_PURPLE": "#5a00c7",
-    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#5a00c7",
-    "RED_260": "#7f007b",
-    "RED_300": "#7f007b",
-    "RED_330": "#7f007b",
-    "RED_345": "#7f007b",
-    "RED_360": "#7f007b",
-    "RED_400": "#7f007b",
-    "RED_430": "#7f007b",
-    "RED_460": "#7f007b",
-    "RED_500": "#7f007b",
-    "RED_530": "#7f007b",
-    "RED_560": "#7f007b",
-    "RED_600": "#7f007b",
-    "RED_630": "#7f007b",
-    "RED_660": "#7f007b",
-    "RED_700": "#7f007b",
+    "GUILD_BOOSTING_PINK": "#360099",
+    "GUILD_BOOSTING_PURPLE": "#360099",
+    "GUILD_BOOSTING_PURPLE_FOR_GRADIENTS": "#360099",
+    "RED_260": "#2409aa",
+    "RED_300": "#2409aa",
+    "RED_330": "#2409aa",
+    "RED_345": "#2409aa",
+    "RED_360": "#2409aa",
+    "RED_400": "#2409aa",
+    "RED_430": "#2409aa",
+    "RED_460": "#2409aa",
+    "RED_500": "#2409aa",
+    "RED_530": "#2409aa",
+    "RED_560": "#2409aa",
+    "RED_600": "#2409aa",
+    "RED_630": "#2409aa",
+    "RED_660": "#2409aa",
+    "RED_700": "#2409aa",
     "ORANGE_260": "#faa61a",
     "ORANGE_300": "#faa61a",
     "ORANGE_330": "#faa61a",
