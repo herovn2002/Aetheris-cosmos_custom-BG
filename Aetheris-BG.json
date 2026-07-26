@@ -178,7 +178,7 @@
     "SourceCodePro-Semibold": "https://github.com/Quinxxxx/Meloso/blob/main/Meloso-Medium.ttf?raw=1"
   },
   "background": {
-      "blur": 0,5
+      "blur": 0
       "url": "https://raw.githubusercontent.com/herovn2002/AMOLED-custom-BG_theme/refs/heads/main/Rover.png",
       "alpha": 0.6
     },
